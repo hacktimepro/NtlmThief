@@ -23,4 +23,5 @@ jobs:
         with:
           name: NtlmThief.exe
           path: NtlmThief/x64/Release/NtlmThief.exe
+          retention-days: 90
 
